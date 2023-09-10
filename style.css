@@ -1,0 +1,15 @@
+html { -webkit-print-color-adjust: economy; }
+
+@page {
+  margin: 0cm 0cm;
+  padding: 0cm 0cm;
+}
+
+.carousel-item h5 {
+  font-size: 24px;
+  text-shadow: 2px 0px 6px #000000;
+}
+
+header {
+  -webkit-print-color-adjust: exact;
+}
